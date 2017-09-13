@@ -1,0 +1,5 @@
+{
+    "go.formatOnSave": true,
+    "go.formatTool": "goimports",
+    "go.useDiffForFormatting": true
+}

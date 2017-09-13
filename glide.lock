@@ -1,6 +1,8 @@
-hash: 961e6128abc7f33cc712467d98d77d9017db0f84ea36775177315bbc5609dee0
-updated: 2017-09-13T16:33:31.814182619+08:00
+hash: 48c095ead765ee5a73482b71aefdd18f2606f86bd8e6ff3605a4054075db74d2
+updated: 2017-09-13T17:05:27.661227188+08:00
 imports:
 - name: github.com/gin-gonic/gin
   version: d459835d2b077e44f7c9b453505ee29881d5d12d
+- name: github.com/lib/pq
+  version: e42267488fe361b9dc034be7a6bffef5b195bceb
 testImports: []
